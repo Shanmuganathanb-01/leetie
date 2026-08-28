@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/can-place-flowers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41896000 (beats 0%)
+// Runtime  : 1 ms (beats 99%)
+// Memory   : 48032000 (beats 5%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
