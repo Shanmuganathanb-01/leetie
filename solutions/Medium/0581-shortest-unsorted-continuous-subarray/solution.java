@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack
 // Link     : https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42600000 (beats 0%)
+// Runtime  : 1 ms (beats 87%)
+// Memory   : 47228000 (beats 58%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
