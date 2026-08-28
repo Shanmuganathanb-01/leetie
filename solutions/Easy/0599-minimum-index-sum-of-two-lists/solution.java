@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/minimum-index-sum-of-two-lists/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42504000 (beats 0%)
+// Runtime  : 8 ms (beats 97%)
+// Memory   : 47668000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
