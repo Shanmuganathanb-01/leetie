@@ -4,7 +4,7 @@
 // Tags     : Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree
 // Link     : https://leetcode.com/problems/unique-binary-search-trees-ii/
 // Runtime  : 1 ms (beats 99%)
-// Memory   : 46240000 (beats 67%)
+// Memory   : 46140000 (beats 83%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
@@ -27,30 +27,30 @@
  */
 class Solution {
     public List<TreeNode> generateTrees(int n) {
-        if(n==0){
-            return new ArrayList<>();
-        }
-        return buildTrees(1,n);
+        if (n == 0) return new ArrayList<>();
+        return buildTrees(1, n);
     }
-    private List<TreeNode> buildTrees(int start,int end){
+
+    private List<TreeNode> buildTrees(int start, int end) {
         List<TreeNode> allTrees = new ArrayList<>();
-        if (start > end){
+        if (start > end) {
             allTrees.add(null);
             return allTrees;
         }
-        for(int i=start;i<=end;i++){
-            List<TreeNode> leftSubtrees = buildTrees(start,i-1);
-            List<TreeNode> rightSubtrees = buildTrees(i+1,end);
-            for(TreeNode left: leftSubtrees){
-                for(TreeNode right:rightSubtrees){
+
+        for (int i = start; i <= end; i++) {
+            List<TreeNode> leftTrees = buildTrees(start, i - 1);
+            List<TreeNode> rightTrees = buildTrees(i + 1, end);
+
+            for (TreeNode left : leftTrees) {
+                for (TreeNode right : rightTrees) {
                     TreeNode root = new TreeNode(i);
                     root.left = left;
                     root.right = right;
                     allTrees.add(root);
                 }
-            } 
+            }
         }
         return allTrees;
     }
-
 }
