@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Greedy, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 // Link     : https://leetcode.com/problems/couples-holding-hands/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42444000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43000000 (beats 39%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
