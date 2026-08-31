@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 22 Solved
+## Progress Summary: 23 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,6 +11,7 @@
 | array-partition | Array Partition | Easy | java | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.java) |
 | binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
+| couples-holding-hands | Couples Holding Hands | Hard | java | [Problem](https://leetcode.com/problems/couples-holding-hands/) | [Solution](./solutions/Hard/0765-couples-holding-hands/solution.java) |
 | distribute-candies | Distribute Candies | Easy | java | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.java) |
 | find-duplicate-file-in-system | Find Duplicate File in System | Medium | java | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | python | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
