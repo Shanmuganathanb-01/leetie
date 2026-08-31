@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 28 Solved
+## Progress Summary: 29 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | making-a-large-island | Making A Large Island | Hard | java | [Problem](https://leetcode.com/problems/making-a-large-island/) | [Solution](./solutions/Hard/0827-making-a-large-island/solution.java) |
 | max-area-of-island | Max Area of Island | Medium | java | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.java) |
 | minimum-index-sum-of-two-lists | Minimum Index Sum of Two Lists | Easy | java | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.java) |
+| possible-bipartition | Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
