@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/array-prototype-last/
-// Runtime  : 60 ms (beats 0%)
-// Memory   : 54552000 (beats 0%)
+// Runtime  : 38 ms (beats 79%)
+// Memory   : 53364000 (beats 64%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
