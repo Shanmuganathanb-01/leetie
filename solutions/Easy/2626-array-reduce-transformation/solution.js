@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/array-reduce-transformation/
-// Runtime  : 45 ms (beats 0%)
-// Memory   : 52704000 (beats 0%)
+// Runtime  : 45 ms (beats 58%)
+// Memory   : 53788000 (beats 73%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
