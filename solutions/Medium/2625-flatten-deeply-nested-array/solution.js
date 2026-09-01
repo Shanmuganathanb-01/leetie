@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/flatten-deeply-nested-array/
-// Runtime  : 34 ms (beats 0%)
-// Memory   : 53400000 (beats 0%)
+// Runtime  : 92 ms (beats 59%)
+// Memory   : 74324000 (beats 78%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
