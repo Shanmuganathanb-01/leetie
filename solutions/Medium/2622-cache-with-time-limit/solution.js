@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/cache-with-time-limit/
-// Runtime  : 50 ms (beats 0%)
-// Memory   : 53628000 (beats 0%)
+// Runtime  : 30 ms (beats 100%)
+// Memory   : 52652000 (beats 90%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
