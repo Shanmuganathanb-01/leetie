@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 32 Solved
+## Progress Summary: 33 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | max-area-of-island | Max Area of Island | Medium | java | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.java) |
 | minimize-malware-spread | Minimize Malware Spread | Hard | java | [Problem](https://leetcode.com/problems/minimize-malware-spread/) | [Solution](./solutions/Hard/0924-minimize-malware-spread/solution.java) |
 | minimum-index-sum-of-two-lists | Minimum Index Sum of Two Lists | Easy | java | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.java) |
+| minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | possible-bipartition | Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
