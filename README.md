@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 45 Solved
+## Progress Summary: 46 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | debounce | Debounce | Medium | javascript | [Problem](https://leetcode.com/problems/debounce/) | [Solution](./solutions/Medium/2627-debounce/solution.js) |
 | decode-the-slanted-ciphertext | Decode the Slanted Ciphertext | Medium | java | [Problem](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Solution](./solutions/Medium/2075-decode-the-slanted-ciphertext/solution.java) |
 | distribute-candies | Distribute Candies | Easy | java | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.java) |
+| filter-elements-from-array | Filter Elements from Array | Easy | javascript | [Problem](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](./solutions/Easy/2634-filter-elements-from-array/solution.js) |
 | find-duplicate-file-in-system | Find Duplicate File in System | Medium | java | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | python | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
 | flatten-deeply-nested-array | Flatten Deeply Nested Array | Medium | javascript | [Problem](https://leetcode.com/problems/flatten-deeply-nested-array/) | [Solution](./solutions/Medium/2625-flatten-deeply-nested-array/solution.js) |
