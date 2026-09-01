@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 43 Solved
+## Progress Summary: 44 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -32,6 +32,7 @@
 | making-a-large-island | Making A Large Island | Hard | java | [Problem](https://leetcode.com/problems/making-a-large-island/) | [Solution](./solutions/Hard/0827-making-a-large-island/solution.java) |
 | max-area-of-island | Max Area of Island | Medium | java | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.java) |
 | memoize | Memoize | Medium | javascript | [Problem](https://leetcode.com/problems/memoize/) | [Solution](./solutions/Medium/2623-memoize/solution.js) |
+| memoize-ii | Memoize II | Hard | javascript | [Problem](https://leetcode.com/problems/memoize-ii/) | [Solution](./solutions/Hard/2630-memoize-ii/solution.js) |
 | minimize-malware-spread | Minimize Malware Spread | Hard | java | [Problem](https://leetcode.com/problems/minimize-malware-spread/) | [Solution](./solutions/Hard/0924-minimize-malware-spread/solution.java) |
 | minimum-index-sum-of-two-lists | Minimum Index Sum of Two Lists | Easy | java | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.java) |
 | minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.java) |
