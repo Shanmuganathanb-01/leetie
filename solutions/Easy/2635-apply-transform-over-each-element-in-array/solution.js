@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/apply-transform-over-each-element-in-array/
-// Runtime  : 48 ms (beats 0%)
-// Memory   : 52480000 (beats 0%)
+// Runtime  : 31 ms (beats 97%)
+// Memory   : 52896000 (beats 87%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
