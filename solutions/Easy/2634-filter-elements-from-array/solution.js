@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/filter-elements-from-array/
-// Runtime  : 38 ms (beats 0%)
-// Memory   : 53468000 (beats 0%)
+// Runtime  : 43 ms (beats 59%)
+// Memory   : 53696000 (beats 48%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
