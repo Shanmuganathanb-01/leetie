@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/function-composition/
-// Runtime  : 44 ms (beats 0%)
-// Memory   : 53836000 (beats 0%)
+// Runtime  : 42 ms (beats 97%)
+// Memory   : 55156000 (beats 44%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
