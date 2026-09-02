@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 51 Solved
+## Progress Summary: 52 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | cache-with-time-limit | Cache With Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/cache-with-time-limit/) | [Solution](./solutions/Medium/2622-cache-with-time-limit/solution.js) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
 | check-if-object-instance-of-class | Check if Object Instance of Class | Medium | javascript | [Problem](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Solution](./solutions/Medium/2618-check-if-object-instance-of-class/solution.js) |
+| counter-ii | Counter II | Easy | javascript | [Problem](https://leetcode.com/problems/counter-ii/) | [Solution](./solutions/Easy/2665-counter-ii/solution.js) |
 | couples-holding-hands | Couples Holding Hands | Hard | java | [Problem](https://leetcode.com/problems/couples-holding-hands/) | [Solution](./solutions/Hard/0765-couples-holding-hands/solution.java) |
 | debounce | Debounce | Medium | javascript | [Problem](https://leetcode.com/problems/debounce/) | [Solution](./solutions/Medium/2627-debounce/solution.js) |
 | decode-the-slanted-ciphertext | Decode the Slanted Ciphertext | Medium | java | [Problem](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Solution](./solutions/Medium/2075-decode-the-slanted-ciphertext/solution.java) |
