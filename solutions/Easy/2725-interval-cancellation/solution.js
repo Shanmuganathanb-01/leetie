@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/interval-cancellation/
-// Runtime  : 53 ms (beats 0%)
-// Memory   : 53584000 (beats 0%)
+// Runtime  : 55 ms (beats 68%)
+// Memory   : 53968000 (beats 67%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
