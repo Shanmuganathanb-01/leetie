@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/sort-by/
-// Runtime  : 51 ms (beats 0%)
-// Memory   : 52960000 (beats 0%)
+// Runtime  : 102 ms (beats 87%)
+// Memory   : 72928000 (beats 5%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
