@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 52 Solved
+## Progress Summary: 53 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | java | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.java) |
 | accounts-merge | Accounts Merge | Medium | java | [Problem](https://leetcode.com/problems/accounts-merge/) | [Solution](./solutions/Medium/0721-accounts-merge/solution.java) |
+| allow-one-function-call | Allow One Function Call | Easy | javascript | [Problem](https://leetcode.com/problems/allow-one-function-call/) | [Solution](./solutions/Easy/2666-allow-one-function-call/solution.js) |
 | apply-transform-over-each-element-in-array | Apply Transform Over Each Element in Array | Easy | javascript | [Problem](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](./solutions/Easy/2635-apply-transform-over-each-element-in-array/solution.js) |
 | array-partition | Array Partition | Easy | java | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.java) |
 | array-prototype-last | Array Prototype Last | Easy | javascript | [Problem](https://leetcode.com/problems/array-prototype-last/) | [Solution](./solutions/Easy/2619-array-prototype-last/solution.js) |
