@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 58 Solved
+## Progress Summary: 59 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -64,3 +64,4 @@
 | validate-binary-search-tree | Validate Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./solutions/Medium/0098-validate-binary-search-tree/solution.java) |
 | walking-robot-simulation | Walking Robot Simulation | Medium | java | [Problem](https://leetcode.com/problems/walking-robot-simulation/) | [Solution](./solutions/Medium/0874-walking-robot-simulation/solution.java) |
 | walking-robot-simulation-ii | Walking Robot Simulation II | Medium | java | [Problem](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Solution](./solutions/Medium/2069-walking-robot-simulation-ii/solution.java) |
+| xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | java | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.java) |
