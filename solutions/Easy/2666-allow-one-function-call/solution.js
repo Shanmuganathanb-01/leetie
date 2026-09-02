@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/allow-one-function-call/
-// Runtime  : 43 ms (beats 0%)
-// Memory   : 53076000 (beats 0%)
+// Runtime  : 44 ms (beats 56%)
+// Memory   : 54056000 (beats 19%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
