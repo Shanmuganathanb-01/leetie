@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 63 Solved
+## Progress Summary: 64 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -64,6 +64,7 @@
 | snail-traversal | Snail Traversal | Medium | javascript | [Problem](https://leetcode.com/problems/snail-traversal/) | [Solution](./solutions/Medium/2624-snail-traversal/solution.js) |
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | swim-in-rising-water | Swim in Rising Water | Hard | java | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.java) |
+| to-be-or-not-to-be | To Be Or Not To Be | Easy | javascript | [Problem](https://leetcode.com/problems/to-be-or-not-to-be/) | [Solution](./solutions/Easy/2704-to-be-or-not-to-be/solution.js) |
 | unique-binary-search-trees-ii | Unique Binary Search Trees II | Medium | java | [Problem](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution](./solutions/Medium/0095-unique-binary-search-trees-ii/solution.java) |
 | validate-binary-search-tree | Validate Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./solutions/Medium/0098-validate-binary-search-tree/solution.java) |
 | walking-robot-simulation | Walking Robot Simulation | Medium | java | [Problem](https://leetcode.com/problems/walking-robot-simulation/) | [Solution](./solutions/Medium/0874-walking-robot-simulation/solution.java) |
