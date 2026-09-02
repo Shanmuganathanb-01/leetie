@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/counter-ii/
-// Runtime  : 37 ms (beats 0%)
-// Memory   : 53292000 (beats 0%)
+// Runtime  : 44 ms (beats 84%)
+// Memory   : 55408000 (beats 96%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
