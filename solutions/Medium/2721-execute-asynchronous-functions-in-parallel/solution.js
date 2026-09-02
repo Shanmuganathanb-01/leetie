@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/
-// Runtime  : 47 ms (beats 0%)
-// Memory   : 53956000 (beats 0%)
+// Runtime  : 74 ms (beats 10%)
+// Memory   : 53860000 (beats 85%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
