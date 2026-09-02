@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/add-two-promises/
-// Runtime  : 38 ms (beats 0%)
-// Memory   : 54168000 (beats 0%)
+// Runtime  : 70 ms (beats 7%)
+// Memory   : 54844000 (beats 10%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
