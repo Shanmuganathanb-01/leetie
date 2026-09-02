@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Simulation
 // Link     : https://leetcode.com/problems/walking-robot-simulation/
-// Runtime  : 4 ms (beats 0%)
-// Memory   : 42772000 (beats 0%)
+// Runtime  : 103 ms (beats 22%)
+// Memory   : 69168000 (beats 60%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
