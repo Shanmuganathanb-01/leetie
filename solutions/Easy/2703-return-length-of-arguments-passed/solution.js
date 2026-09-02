@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/return-length-of-arguments-passed/
-// Runtime  : 32 ms (beats 0%)
-// Memory   : 53108000 (beats 0%)
+// Runtime  : 48 ms (beats 27%)
+// Memory   : 54124000 (beats 11%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
