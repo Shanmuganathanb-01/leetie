@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/generate-fibonacci-sequence/
-// Runtime  : 47 ms (beats 31%)
-// Memory   : 53968000 (beats 30%)
+// Runtime  : 44 ms (beats 47%)
+// Memory   : 53780000 (beats 44%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
