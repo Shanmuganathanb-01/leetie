@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/event-emitter/
-// Runtime  : 42 ms (beats 0%)
-// Memory   : 52872000 (beats 0%)
+// Runtime  : 46 ms (beats 54%)
+// Memory   : 53656000 (beats 77%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
