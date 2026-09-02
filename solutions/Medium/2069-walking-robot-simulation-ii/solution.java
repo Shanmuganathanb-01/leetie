@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Design, Simulation
 // Link     : https://leetcode.com/problems/walking-robot-simulation-ii/
-// Runtime  : 5 ms (beats 0%)
-// Memory   : 42600000 (beats 0%)
+// Runtime  : 62 ms (beats 47%)
+// Memory   : 57712000 (beats 77%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
