@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/to-be-or-not-to-be/
-// Runtime  : 57 ms (beats 0%)
-// Memory   : 54368000 (beats 0%)
+// Runtime  : 47 ms (beats 37%)
+// Memory   : 53784000 (beats 40%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
