@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/chunk-array/
-// Runtime  : 39 ms (beats 0%)
-// Memory   : 53632000 (beats 0%)
+// Runtime  : 48 ms (beats 50%)
+// Memory   : 55688000 (beats 81%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
