@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 59 Solved
+## Progress Summary: 60 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | bricks-falling-when-hit | Bricks Falling When Hit | Hard | java | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.java) |
 | cache-with-time-limit | Cache With Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/cache-with-time-limit/) | [Solution](./solutions/Medium/2622-cache-with-time-limit/solution.js) |
+| call-function-with-custom-context | Call Function with Custom Context | Medium | javascript | [Problem](https://leetcode.com/problems/call-function-with-custom-context/) | [Solution](./solutions/Medium/2693-call-function-with-custom-context/solution.js) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
 | check-if-object-instance-of-class | Check if Object Instance of Class | Medium | javascript | [Problem](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Solution](./solutions/Medium/2618-check-if-object-instance-of-class/solution.js) |
 | chunk-array | Chunk Array | Easy | javascript | [Problem](https://leetcode.com/problems/chunk-array/) | [Solution](./solutions/Easy/2677-chunk-array/solution.js) |

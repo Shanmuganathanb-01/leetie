@@ -1,0 +1,29 @@
+// ──────────────────────────────────────────────────
+// Problem  : 2693. Call Function with Custom Context
+// Difficulty: Medium
+// Tags     : N/A
+// Link     : https://leetcode.com/problems/call-function-with-custom-context/
+// Runtime  : 47 ms (beats 48%)
+// Memory   : 53848000 (beats 48%)
+// Language : javascript
+// Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+/**
+ * @param {Object} context
+ * @param {Array} args
+ * @return {null|boolean|number|string|Array|Object}
+ */
+Function.prototype.callPolyfill = function(context, ...args) {
+    const fnSymbol = Symbol();
+    context[fnSymbol] = this;
+    const result = context[fnSymbol](...args);
+    delete context[fnSymbol];
+    return result;
+}
+
+/**
+ * function increment() { this.count++; return this.count; }
+ * increment.callPolyfill({count: 1}); // 2
+ */
