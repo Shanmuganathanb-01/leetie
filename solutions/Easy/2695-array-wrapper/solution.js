@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/array-wrapper/
-// Runtime  : 40 ms (beats 0%)
-// Memory   : 53416000 (beats 0%)
+// Runtime  : 51 ms (beats 20%)
+// Memory   : 54600000 (beats 29%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
