@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 60 Solved
+## Progress Summary: 61 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | decode-the-slanted-ciphertext | Decode the Slanted Ciphertext | Medium | java | [Problem](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Solution](./solutions/Medium/2075-decode-the-slanted-ciphertext/solution.java) |
 | design-cancellable-function | Design Cancellable Function | Hard | javascript | [Problem](https://leetcode.com/problems/design-cancellable-function/) | [Solution](./solutions/Hard/2650-design-cancellable-function/solution.js) |
 | distribute-candies | Distribute Candies | Easy | java | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.java) |
+| event-emitter | Event Emitter | Medium | javascript | [Problem](https://leetcode.com/problems/event-emitter/) | [Solution](./solutions/Medium/2694-event-emitter/solution.js) |
 | filter-elements-from-array | Filter Elements from Array | Easy | javascript | [Problem](https://leetcode.com/problems/filter-elements-from-array/) | [Solution](./solutions/Easy/2634-filter-elements-from-array/solution.js) |
 | find-duplicate-file-in-system | Find Duplicate File in System | Medium | java | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | python | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
