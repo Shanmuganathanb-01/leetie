@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/design-cancellable-function/
-// Runtime  : 50 ms (beats 0%)
-// Memory   : 53564000 (beats 0%)
+// Runtime  : 46 ms (beats 81%)
+// Memory   : 53296000 (beats 78%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
