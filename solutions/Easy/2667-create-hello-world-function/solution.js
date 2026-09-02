@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/create-hello-world-function/
-// Runtime  : 42 ms (beats 0%)
-// Memory   : 52680000 (beats 0%)
+// Runtime  : 36 ms (beats 86%)
+// Memory   : 53692000 (beats 39%)
 // Language : javascript
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
