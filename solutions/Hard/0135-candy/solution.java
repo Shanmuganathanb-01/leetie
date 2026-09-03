@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/candy/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42364000 (beats 0%)
+// Runtime  : 3 ms (beats 86%)
+// Memory   : 52560000 (beats 6%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
