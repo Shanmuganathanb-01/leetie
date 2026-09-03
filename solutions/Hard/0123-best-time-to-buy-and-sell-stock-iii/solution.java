@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42464000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 75716000 (beats 81%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
