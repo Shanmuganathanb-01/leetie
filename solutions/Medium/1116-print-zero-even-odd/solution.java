@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Concurrency
 // Link     : https://leetcode.com/problems/print-zero-even-odd/
-// Runtime  : 4 ms (beats 0%)
-// Memory   : 43192000 (beats 0%)
+// Runtime  : 5 ms (beats 95%)
+// Memory   : 44012000 (beats 34%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
