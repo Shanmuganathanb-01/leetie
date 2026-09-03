@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/triangle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42868000 (beats 0%)
+// Runtime  : 3 ms (beats 79%)
+// Memory   : 45028000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
