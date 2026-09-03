@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 81 Solved
+## Progress Summary: 82 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -62,6 +62,7 @@
 | possible-bipartition | Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
 | print-foobar-alternately | Print FooBar Alternately | Medium | java | [Problem](https://leetcode.com/problems/print-foobar-alternately/) | [Solution](./solutions/Medium/1115-print-foobar-alternately/solution.java) |
 | print-in-order | Print in Order | Easy | java | [Problem](https://leetcode.com/problems/print-in-order/) | [Solution](./solutions/Easy/1114-print-in-order/solution.java) |
+| print-zero-even-odd | Print Zero Even Odd | Medium | java | [Problem](https://leetcode.com/problems/print-zero-even-odd/) | [Solution](./solutions/Medium/1116-print-zero-even-odd/solution.java) |
 | promise-time-limit | Promise Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/promise-time-limit/) | [Solution](./solutions/Medium/2637-promise-time-limit/solution.js) |
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
