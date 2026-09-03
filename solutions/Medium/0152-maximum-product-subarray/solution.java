@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/maximum-product-subarray/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42724000 (beats 0%)
+// Runtime  : 2 ms (beats 72%)
+// Memory   : 47464000 (beats 16%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
