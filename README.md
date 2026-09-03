@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 94 Solved
+## Progress Summary: 95 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -25,6 +25,7 @@
 | calculator-with-method-chaining | Calculator with Method Chaining | Easy | javascript | [Problem](https://leetcode.com/problems/calculator-with-method-chaining/) | [Solution](./solutions/Easy/2726-calculator-with-method-chaining/solution.js) |
 | call-function-with-custom-context | Call Function with Custom Context | Medium | javascript | [Problem](https://leetcode.com/problems/call-function-with-custom-context/) | [Solution](./solutions/Medium/2693-call-function-with-custom-context/solution.js) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
+| candy | Candy | Hard | java | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.java) |
 | check-if-object-instance-of-class | Check if Object Instance of Class | Medium | javascript | [Problem](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Solution](./solutions/Medium/2618-check-if-object-instance-of-class/solution.js) |
 | chunk-array | Chunk Array | Easy | javascript | [Problem](https://leetcode.com/problems/chunk-array/) | [Solution](./solutions/Easy/2677-chunk-array/solution.js) |
 | compact-object | Compact Object | Medium | javascript | [Problem](https://leetcode.com/problems/compact-object/) | [Solution](./solutions/Medium/2705-compact-object/solution.js) |
