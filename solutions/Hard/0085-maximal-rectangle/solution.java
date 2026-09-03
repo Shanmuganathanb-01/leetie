@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Stack, Matrix, Monotonic Stack
 // Link     : https://leetcode.com/problems/maximal-rectangle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42592000 (beats 0%)
+// Runtime  : 18 ms (beats 78%)
+// Memory   : 50948000 (beats 30%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
