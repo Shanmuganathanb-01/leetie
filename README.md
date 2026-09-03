@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 90 Solved
+## Progress Summary: 91 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | array-prototype-last | Array Prototype Last | Easy | javascript | [Problem](https://leetcode.com/problems/array-prototype-last/) | [Solution](./solutions/Easy/2619-array-prototype-last/solution.js) |
 | array-reduce-transformation | Array Reduce Transformation | Easy | javascript | [Problem](https://leetcode.com/problems/array-reduce-transformation/) | [Solution](./solutions/Easy/2626-array-reduce-transformation/solution.js) |
 | array-wrapper | Array Wrapper | Easy | javascript | [Problem](https://leetcode.com/problems/array-wrapper/) | [Solution](./solutions/Easy/2695-array-wrapper/solution.js) |
+| best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
 | binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | bricks-falling-when-hit | Bricks Falling When Hit | Hard | java | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.java) |
