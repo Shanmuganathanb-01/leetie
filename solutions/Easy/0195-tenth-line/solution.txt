@@ -1,0 +1,14 @@
+// ──────────────────────────────────────────────────
+// Problem  : 195. Tenth Line
+// Difficulty: Easy
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/tenth-line/
+// Runtime  : 21 ms (beats 87%)
+// Memory   : 3840000 (beats 83%)
+// Language : bash
+// Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+# Read from the file file.txt and output the tenth line to stdout.
+sed -n '10p' file.txt
