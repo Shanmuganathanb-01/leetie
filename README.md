@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 93 Solved
+## Progress Summary: 94 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | python | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
 | flatten-deeply-nested-array | Flatten Deeply Nested Array | Medium | javascript | [Problem](https://leetcode.com/problems/flatten-deeply-nested-array/) | [Solution](./solutions/Medium/2625-flatten-deeply-nested-array/solution.js) |
 | function-composition | Function Composition | Easy | javascript | [Problem](https://leetcode.com/problems/function-composition/) | [Solution](./solutions/Easy/2629-function-composition/solution.js) |
+| gas-station | Gas Station | Medium | java | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.java) |
 | generate-fibonacci-sequence | Generate Fibonacci Sequence | Easy | javascript | [Problem](https://leetcode.com/problems/generate-fibonacci-sequence/) | [Solution](./solutions/Easy/2648-generate-fibonacci-sequence/solution.js) |
 | group-by | Group By | Medium | javascript | [Problem](https://leetcode.com/problems/group-by/) | [Solution](./solutions/Medium/2631-group-by/solution.js) |
 | interval-cancellation | Interval Cancellation | Easy | javascript | [Problem](https://leetcode.com/problems/interval-cancellation/) | [Solution](./solutions/Easy/2725-interval-cancellation/solution.js) |

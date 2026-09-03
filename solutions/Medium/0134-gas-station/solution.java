@@ -1,0 +1,31 @@
+// ──────────────────────────────────────────────────
+// Problem  : 134. Gas Station
+// Difficulty: Medium
+// Tags     : Array, Greedy
+// Link     : https://leetcode.com/problems/gas-station/
+// Runtime  : 3 ms (beats 30%)
+// Memory   : 119080000 (beats 95%)
+// Language : java
+// Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class Solution {
+    public int canCompleteCircuit(int[] gas, int[] cost) {
+        int totalGas = 0, totalCost = 0;
+        int currentGas = 0, start = 0;
+        
+        for (int i = 0; i < gas.length; i++) {
+            totalGas += gas[i];
+            totalCost += cost[i];
+            currentGas += gas[i] - cost[i];
+            
+            if (currentGas < 0) {
+                start = i + 1;
+                currentGas = 0;
+            }
+        }
+        
+        return totalGas < totalCost ? -1 : start;
+    }
+}
