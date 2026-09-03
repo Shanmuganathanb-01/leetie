@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Concurrency
 // Link     : https://leetcode.com/problems/print-foobar-alternately/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 43104000 (beats 0%)
+// Runtime  : 20 ms (beats 86%)
+// Memory   : 45780000 (beats 36%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
