@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 79 Solved
+## Progress Summary: 80 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -60,6 +60,7 @@
 | minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | nested-array-generator | Nested Array Generator | Medium | javascript | [Problem](https://leetcode.com/problems/nested-array-generator/) | [Solution](./solutions/Medium/2649-nested-array-generator/solution.js) |
 | possible-bipartition | Possible Bipartition | Medium | java | [Problem](https://leetcode.com/problems/possible-bipartition/) | [Solution](./solutions/Medium/0886-possible-bipartition/solution.java) |
+| print-in-order | Print in Order | Easy | java | [Problem](https://leetcode.com/problems/print-in-order/) | [Solution](./solutions/Easy/1114-print-in-order/solution.java) |
 | promise-time-limit | Promise Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/promise-time-limit/) | [Solution](./solutions/Medium/2637-promise-time-limit/solution.js) |
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
