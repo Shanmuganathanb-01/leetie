@@ -4,7 +4,7 @@
 // Tags     : Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle
 // Link     : https://leetcode.com/problems/maximum-gap/
 // Runtime  : 10 ms (beats 97%)
-// Memory   : 90592000 (beats 69%)
+// Memory   : 90404000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
