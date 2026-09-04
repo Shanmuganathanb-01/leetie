@@ -4,7 +4,7 @@
 // Tags     : Two Pointers, String
 // Link     : https://leetcode.com/problems/compare-version-numbers/
 // Runtime  : 1 ms (beats 77%)
-// Memory   : 43216000 (beats 11%)
+// Memory   : 42904000 (beats 42%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
