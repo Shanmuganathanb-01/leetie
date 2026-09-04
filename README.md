@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 107 Solved
+## Progress Summary: 108 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,6 +58,7 @@
 | is-graph-bipartite | Is Graph Bipartite? | Medium | java | [Problem](https://leetcode.com/problems/is-graph-bipartite/) | [Solution](./solutions/Medium/0785-is-graph-bipartite/solution.java) |
 | is-object-empty | Is Object Empty | Easy | javascript | [Problem](https://leetcode.com/problems/is-object-empty/) | [Solution](./solutions/Easy/2727-is-object-empty/solution.js) |
 | join-two-arrays-by-id | Join Two Arrays by ID | Medium | javascript | [Problem](https://leetcode.com/problems/join-two-arrays-by-id/) | [Solution](./solutions/Medium/2722-join-two-arrays-by-id/solution.js) |
+| largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
 | largest-rectangle-in-histogram | Largest Rectangle in Histogram | Hard | java | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./solutions/Hard/0084-largest-rectangle-in-histogram/solution.java) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
 | longest-harmonious-subsequence | Longest Harmonious Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.java) |
