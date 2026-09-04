@@ -4,7 +4,7 @@
 // Tags     : Divide and Conquer, Bit Manipulation
 // Link     : https://leetcode.com/problems/number-of-1-bits/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 42512000 (beats 28%)
+// Memory   : 42588000 (beats 28%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
