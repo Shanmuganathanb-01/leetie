@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 108 Solved
+## Progress Summary: 109 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -66,6 +66,7 @@
 | making-a-large-island | Making A Large Island | Hard | java | [Problem](https://leetcode.com/problems/making-a-large-island/) | [Solution](./solutions/Hard/0827-making-a-large-island/solution.java) |
 | max-area-of-island | Max Area of Island | Medium | java | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.java) |
 | maximal-rectangle | Maximal Rectangle | Hard | java | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.java) |
+| maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | memoize | Memoize | Medium | javascript | [Problem](https://leetcode.com/problems/memoize/) | [Solution](./solutions/Medium/2623-memoize/solution.js) |
 | memoize-ii | Memoize II | Hard | javascript | [Problem](https://leetcode.com/problems/memoize-ii/) | [Solution](./solutions/Hard/2630-memoize-ii/solution.js) |
