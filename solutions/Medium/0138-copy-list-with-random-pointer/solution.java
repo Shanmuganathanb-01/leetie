@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Linked List
 // Link     : https://leetcode.com/problems/copy-list-with-random-pointer/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42752000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 46312000 (beats 88%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
