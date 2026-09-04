@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 101 Solved
+## Progress Summary: 102 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -79,6 +79,7 @@
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
 | remove-duplicates-from-sorted-array-ii | Remove Duplicates from Sorted Array II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./solutions/Medium/0080-remove-duplicates-from-sorted-array-ii/solution.java) |
 | remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | java | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.java) |
+| repeated-dna-sequences | Repeated DNA Sequences | Medium | java | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
 | return-length-of-arguments-passed | Return Length of Arguments Passed | Easy | javascript | [Problem](https://leetcode.com/problems/return-length-of-arguments-passed/) | [Solution](./solutions/Easy/2703-return-length-of-arguments-passed/solution.js) |
 | search-in-rotated-sorted-array-ii | Search in Rotated Sorted Array II | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./solutions/Medium/0081-search-in-rotated-sorted-array-ii/solution.java) |
