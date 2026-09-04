@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 105 Solved
+## Progress Summary: 106 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,6 +19,7 @@
 | best-time-to-buy-and-sell-stock-ii | Best Time to Buy and Sell Stock II | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./solutions/Medium/0122-best-time-to-buy-and-sell-stock-ii/solution.java) |
 | best-time-to-buy-and-sell-stock-iii | Best Time to Buy and Sell Stock III | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](./solutions/Hard/0123-best-time-to-buy-and-sell-stock-iii/solution.java) |
 | best-time-to-buy-and-sell-stock-iv | Best Time to Buy and Sell Stock IV | Hard | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution](./solutions/Hard/0188-best-time-to-buy-and-sell-stock-iv/solution.java) |
+| binary-search-tree-iterator | Binary Search Tree Iterator | Medium | java | [Problem](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](./solutions/Medium/0173-binary-search-tree-iterator/solution.java) |
 | binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | bricks-falling-when-hit | Bricks Falling When Hit | Hard | java | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.java) |
