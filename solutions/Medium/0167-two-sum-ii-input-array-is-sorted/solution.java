@@ -4,7 +4,7 @@
 // Tags     : Array, Two Pointers, Binary Search
 // Link     : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 // Runtime  : 2 ms (beats 96%)
-// Memory   : 48408000 (beats 42%)
+// Memory   : 48088000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
