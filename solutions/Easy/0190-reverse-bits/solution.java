@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Divide and Conquer, Bit Manipulation
 // Link     : https://leetcode.com/problems/reverse-bits/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41848000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42692000 (beats 18%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
