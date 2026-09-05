@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Two Pointers, Stack, Greedy, Monotonic Stack
 // Link     : https://leetcode.com/problems/create-maximum-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42960000 (beats 0%)
+// Runtime  : 6 ms (beats 99%)
+// Memory   : 46576000 (beats 69%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
