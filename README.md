@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 118 Solved
+## Progress Summary: 119 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,6 +58,7 @@
 | generate-fibonacci-sequence | Generate Fibonacci Sequence | Easy | javascript | [Problem](https://leetcode.com/problems/generate-fibonacci-sequence/) | [Solution](./solutions/Easy/2648-generate-fibonacci-sequence/solution.js) |
 | group-by | Group By | Medium | javascript | [Problem](https://leetcode.com/problems/group-by/) | [Solution](./solutions/Medium/2631-group-by/solution.js) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
+| house-robber-ii | House Robber II | Medium | java | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.java) |
 | interval-cancellation | Interval Cancellation | Easy | javascript | [Problem](https://leetcode.com/problems/interval-cancellation/) | [Solution](./solutions/Easy/2725-interval-cancellation/solution.js) |
 | is-graph-bipartite | Is Graph Bipartite? | Medium | java | [Problem](https://leetcode.com/problems/is-graph-bipartite/) | [Solution](./solutions/Medium/0785-is-graph-bipartite/solution.java) |
 | is-object-empty | Is Object Empty | Easy | javascript | [Problem](https://leetcode.com/problems/is-object-empty/) | [Solution](./solutions/Easy/2727-is-object-empty/solution.js) |
