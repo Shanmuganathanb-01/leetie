@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 123 Solved
+## Progress Summary: 124 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -40,6 +40,7 @@
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | contains-duplicate-ii | Contains Duplicate II | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](./solutions/Easy/0219-contains-duplicate-ii/solution.java) |
+| contains-duplicate-iii | Contains Duplicate III | Hard | java | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.java) |
 | copy-list-with-random-pointer | Copy List with Random Pointer | Medium | java | [Problem](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./solutions/Medium/0138-copy-list-with-random-pointer/solution.java) |
 | counter-ii | Counter II | Easy | javascript | [Problem](https://leetcode.com/problems/counter-ii/) | [Solution](./solutions/Easy/2665-counter-ii/solution.js) |
 | couples-holding-hands | Couples Holding Hands | Hard | java | [Problem](https://leetcode.com/problems/couples-holding-hands/) | [Solution](./solutions/Hard/0765-couples-holding-hands/solution.java) |
