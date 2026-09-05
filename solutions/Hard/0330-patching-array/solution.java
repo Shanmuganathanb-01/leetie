@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/patching-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42272000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 45468000 (beats 23%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
