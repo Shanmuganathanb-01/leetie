@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sorting
 // Link     : https://leetcode.com/problems/contains-duplicate/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42172000 (beats 0%)
+// Runtime  : 12 ms (beats 99%)
+// Memory   : 108784000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
