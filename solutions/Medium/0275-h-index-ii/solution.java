@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/h-index-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42348000 (beats 0%)
+// Runtime  : 2 ms (beats 12%)
+// Memory   : 49912000 (beats 93%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
