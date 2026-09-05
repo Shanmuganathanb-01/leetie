@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 // Link     : https://leetcode.com/problems/majority-element-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43052000 (beats 0%)
+// Runtime  : 4 ms (beats 56%)
+// Memory   : 52652000 (beats 41%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
