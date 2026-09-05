@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm
 // Link     : https://leetcode.com/problems/find-the-duplicate-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42636000 (beats 0%)
+// Runtime  : 5 ms (beats 63%)
+// Memory   : 83000000 (beats 48%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
