@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/increasing-triplet-subsequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42368000 (beats 0%)
+// Runtime  : 2 ms (beats 99%)
+// Memory   : 122408000 (beats 76%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
