@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 139 Solved
+## Progress Summary: 140 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,6 +24,7 @@
 | binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | bricks-falling-when-hit | Bricks Falling When Hit | Hard | java | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.java) |
+| burst-balloons | Burst Balloons | Hard | java | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.java) |
 | cache-with-time-limit | Cache With Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/cache-with-time-limit/) | [Solution](./solutions/Medium/2622-cache-with-time-limit/solution.js) |
 | calculator-with-method-chaining | Calculator with Method Chaining | Easy | javascript | [Problem](https://leetcode.com/problems/calculator-with-method-chaining/) | [Solution](./solutions/Easy/2726-calculator-with-method-chaining/solution.js) |
 | call-function-with-custom-context | Call Function with Custom Context | Medium | javascript | [Problem](https://leetcode.com/problems/call-function-with-custom-context/) | [Solution](./solutions/Medium/2693-call-function-with-custom-context/solution.js) |
