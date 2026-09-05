@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Design, Prefix Sum
 // Link     : https://leetcode.com/problems/range-sum-query-immutable/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42684000 (beats 0%)
+// Runtime  : 8 ms (beats 70%)
+// Memory   : 47484000 (beats 91%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
