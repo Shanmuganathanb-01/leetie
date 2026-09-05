@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, String, Backtracking, Trie, Matrix
 // Link     : https://leetcode.com/problems/word-search-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42468000 (beats 0%)
+// Runtime  : 128 ms (beats 85%)
+// Memory   : 46912000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
