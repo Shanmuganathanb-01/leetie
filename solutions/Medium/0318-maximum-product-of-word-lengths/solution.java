@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String, Bit Manipulation
 // Link     : https://leetcode.com/problems/maximum-product-of-word-lengths/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41920000 (beats 0%)
+// Runtime  : 10 ms (beats 70%)
+// Memory   : 49200000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
