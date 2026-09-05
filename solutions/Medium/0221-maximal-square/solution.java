@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Matrix
 // Link     : https://leetcode.com/problems/maximal-square/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42432000 (beats 0%)
+// Runtime  : 9 ms (beats 34%)
+// Memory   : 71192000 (beats 28%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
