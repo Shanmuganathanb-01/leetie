@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sliding Window
 // Link     : https://leetcode.com/problems/contains-duplicate-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41976000 (beats 0%)
+// Runtime  : 38 ms (beats 6%)
+// Memory   : 125192000 (beats 6%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
