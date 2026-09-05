@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Design, Iterator
 // Link     : https://leetcode.com/problems/peeking-iterator/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42876000 (beats 0%)
+// Runtime  : 4 ms (beats 80%)
+// Memory   : 43856000 (beats 9%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
