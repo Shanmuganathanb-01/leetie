@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 141 Solved
+## Progress Summary: 142 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -86,6 +86,7 @@
 | maximal-rectangle | Maximal Rectangle | Hard | java | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
+| maximum-product-of-word-lengths | Maximum Product of Word Lengths | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | memoize | Memoize | Medium | javascript | [Problem](https://leetcode.com/problems/memoize/) | [Solution](./solutions/Medium/2623-memoize/solution.js) |
 | memoize-ii | Memoize II | Hard | javascript | [Problem](https://leetcode.com/problems/memoize-ii/) | [Solution](./solutions/Hard/2630-memoize-ii/solution.js) |
