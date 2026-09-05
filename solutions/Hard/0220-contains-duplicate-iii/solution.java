@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Sliding Window, Sorting, Bucket Sort, Ordered Set
 // Link     : https://leetcode.com/problems/contains-duplicate-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42284000 (beats 0%)
+// Runtime  : 199 ms (beats 14%)
+// Memory   : 127356000 (beats 5%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
