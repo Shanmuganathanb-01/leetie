@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 148 Solved
+## Progress Summary: 149 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -73,6 +73,7 @@
 | h-index-ii | H-Index II | Medium | java | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | house-robber-ii | House Robber II | Medium | java | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.java) |
+| increasing-triplet-subsequence | Increasing Triplet Subsequence | Medium | java | [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](./solutions/Medium/0334-increasing-triplet-subsequence/solution.java) |
 | interval-cancellation | Interval Cancellation | Easy | javascript | [Problem](https://leetcode.com/problems/interval-cancellation/) | [Solution](./solutions/Easy/2725-interval-cancellation/solution.js) |
 | is-graph-bipartite | Is Graph Bipartite? | Medium | java | [Problem](https://leetcode.com/problems/is-graph-bipartite/) | [Solution](./solutions/Medium/0785-is-graph-bipartite/solution.java) |
 | is-object-empty | Is Object Empty | Easy | javascript | [Problem](https://leetcode.com/problems/is-object-empty/) | [Solution](./solutions/Easy/2727-is-object-empty/solution.js) |
