@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 153 Solved
+## Progress Summary: 154 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -123,6 +123,7 @@
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
 | return-length-of-arguments-passed | Return Length of Arguments Passed | Easy | javascript | [Problem](https://leetcode.com/problems/return-length-of-arguments-passed/) | [Solution](./solutions/Easy/2703-return-length-of-arguments-passed/solution.js) |
 | reverse-bits | Reverse Bits | Easy | java | [Problem](https://leetcode.com/problems/reverse-bits/) | [Solution](./solutions/Easy/0190-reverse-bits/solution.java) |
+| russian-doll-envelopes | Russian Doll Envelopes | Hard | java | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.java) |
 | scramble-string | Scramble String | Hard | java | [Problem](https://leetcode.com/problems/scramble-string/) | [Solution](./solutions/Hard/0087-scramble-string/solution.java) |
 | search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
 | search-in-rotated-sorted-array-ii | Search in Rotated Sorted Array II | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](./solutions/Medium/0081-search-in-rotated-sorted-array-ii/solution.java) |
