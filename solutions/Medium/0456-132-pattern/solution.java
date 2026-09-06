@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Stack, Monotonic Stack, Ordered Set
 // Link     : https://leetcode.com/problems/132-pattern/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42776000 (beats 0%)
+// Runtime  : 39 ms (beats 39%)
+// Memory   : 98508000 (beats 59%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
