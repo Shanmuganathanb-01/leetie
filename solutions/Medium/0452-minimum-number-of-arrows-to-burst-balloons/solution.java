@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy, Sorting
 // Link     : https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42092000 (beats 0%)
+// Runtime  : 50 ms (beats 98%)
+// Memory   : 95500000 (beats 83%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
