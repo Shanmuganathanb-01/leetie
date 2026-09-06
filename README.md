@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 160 Solved
+## Progress Summary: 161 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -67,6 +67,7 @@
 | find-the-duplicate-number | Find the Duplicate Number | Medium | java | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | python | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.py) |
 | flatten-deeply-nested-array | Flatten Deeply Nested Array | Medium | javascript | [Problem](https://leetcode.com/problems/flatten-deeply-nested-array/) | [Solution](./solutions/Medium/2625-flatten-deeply-nested-array/solution.js) |
+| frog-jump | Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
 | function-composition | Function Composition | Easy | javascript | [Problem](https://leetcode.com/problems/function-composition/) | [Solution](./solutions/Easy/2629-function-composition/solution.js) |
 | game-of-life | Game of Life | Medium | java | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.java) |
 | gas-station | Gas Station | Medium | java | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.java) |
