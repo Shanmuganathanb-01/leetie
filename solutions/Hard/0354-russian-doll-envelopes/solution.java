@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/russian-doll-envelopes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41752000 (beats 0%)
+// Runtime  : 38 ms (beats 95%)
+// Memory   : 99088000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
