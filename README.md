@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 176 Solved
+## Progress Summary: 177 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | java | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.java) |
+| 4sum-ii | 4Sum II | Medium | java | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.java) |
 | accounts-merge | Accounts Merge | Medium | java | [Problem](https://leetcode.com/problems/accounts-merge/) | [Solution](./solutions/Medium/0721-accounts-merge/solution.java) |
 | add-two-promises | Add Two Promises | Easy | javascript | [Problem](https://leetcode.com/problems/add-two-promises/) | [Solution](./solutions/Easy/2723-add-two-promises/solution.js) |
 | allow-one-function-call | Allow One Function Call | Easy | javascript | [Problem](https://leetcode.com/problems/allow-one-function-call/) | [Solution](./solutions/Easy/2666-allow-one-function-call/solution.js) |
