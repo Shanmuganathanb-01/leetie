@@ -4,7 +4,7 @@
 // Tags     : Array, Bit Manipulation
 // Link     : https://leetcode.com/problems/utf-8-validation/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42276000 (beats 0%)
+// Memory   : 42452000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
@@ -22,9 +22,9 @@ class Solution {
                     continue;
                 } else if ((byteVal >> 5) == 06) {
                     remainingBytes = 1;
-                } else if ((byteVal >> 4) == 014) {
+                } else if ((byteVal >> 4) == 016) {
                     remainingBytes = 2;
-                } else if ((byteVal >> 3) == 030) {
+                } else if ((byteVal >> 3) == 036) {
                     remainingBytes = 3;
                 } else {
                     return false;
