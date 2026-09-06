@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 161 Solved
+## Progress Summary: 162 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -118,6 +118,7 @@
 | print-in-order | Print in Order | Easy | java | [Problem](https://leetcode.com/problems/print-in-order/) | [Solution](./solutions/Easy/1114-print-in-order/solution.java) |
 | print-zero-even-odd | Print Zero Even Odd | Medium | java | [Problem](https://leetcode.com/problems/print-zero-even-odd/) | [Solution](./solutions/Medium/1116-print-zero-even-odd/solution.java) |
 | promise-time-limit | Promise Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/promise-time-limit/) | [Solution](./solutions/Medium/2637-promise-time-limit/solution.js) |
+| queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | range-sum-query-immutable | Range Sum Query - Immutable | Easy | java | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.java) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | java | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.java) |
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
