@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/keyboard-row/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42508000 (beats 0%)
+// Runtime  : 1 ms (beats 32%)
+// Memory   : 42480000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
