@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Stack, Monotonic Stack
 // Link     : https://leetcode.com/problems/next-greater-element-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42720000 (beats 0%)
+// Runtime  : 3 ms (beats 93%)
+// Memory   : 45236000 (beats 50%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
