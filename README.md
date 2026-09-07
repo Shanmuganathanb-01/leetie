@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 187 Solved
+## Progress Summary: 188 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -90,6 +90,7 @@
 | group-by | Group By | Medium | javascript | [Problem](https://leetcode.com/problems/group-by/) | [Solution](./solutions/Medium/2631-group-by/solution.js) |
 | h-index | H-Index | Medium | java | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.java) |
 | h-index-ii | H-Index II | Medium | java | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.java) |
+| heaters | Heaters | Medium | java | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.java) |
 | house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | house-robber-ii | House Robber II | Medium | java | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.java) |
 | increasing-triplet-subsequence | Increasing Triplet Subsequence | Medium | java | [Problem](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](./solutions/Medium/0334-increasing-triplet-subsequence/solution.java) |
