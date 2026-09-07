@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack
 // Link     : https://leetcode.com/problems/target-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42468000 (beats 0%)
+// Runtime  : 3 ms (beats 90%)
+// Memory   : 43004000 (beats 79%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
