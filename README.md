@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 196 Solved
+## Progress Summary: 197 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -102,6 +102,7 @@
 | is-object-empty | Is Object Empty | Easy | javascript | [Problem](https://leetcode.com/problems/is-object-empty/) | [Solution](./solutions/Easy/2727-is-object-empty/solution.js) |
 | island-perimeter | Island Perimeter | Easy | java | [Problem](https://leetcode.com/problems/island-perimeter/) | [Solution](./solutions/Easy/0463-island-perimeter/solution.java) |
 | join-two-arrays-by-id | Join Two Arrays by ID | Medium | javascript | [Problem](https://leetcode.com/problems/join-two-arrays-by-id/) | [Solution](./solutions/Medium/2722-join-two-arrays-by-id/solution.js) |
+| keyboard-row | Keyboard Row | Easy | java | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.java) |
 | kth-smallest-element-in-a-sorted-matrix | Kth Smallest Element in a Sorted Matrix | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution](./solutions/Medium/0378-kth-smallest-element-in-a-sorted-matrix/solution.java) |
 | largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
 | largest-rectangle-in-histogram | Largest Rectangle in Histogram | Hard | java | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./solutions/Hard/0084-largest-rectangle-in-histogram/solution.java) |
