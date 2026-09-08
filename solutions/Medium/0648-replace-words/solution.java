@@ -3,26 +3,34 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Trie
 // Link     : https://leetcode.com/problems/replace-words/
-// Runtime  : 9 ms (beats 94%)
-// Memory   : 46940000 (beats 66%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42808000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
 class Solution {
-    public int findLongestChain(int[][] pairs) {
-        java.util.Arrays.sort(pairs, (a, b) -> Integer.compare(a[1], b[1]));
-        int count = 0;
-        int currentEnd = Integer.MIN_VALUE;
+    public String replaceWords(List<String> dictionary, String sentence) {
+        Set<String> dictSet = new HashSet<>(dictionary);
+        String[] words = sentence.split(" ");
+        StringBuilder result = new StringBuilder();
         
-        for (int[] p : pairs) {
-            if (p[0] > currentEnd) {
-                count++;
-                currentEnd = p[1];
+        for (String word : words) {
+            String replacement = word;
+            for (int i = 1; i <= word.length(); i++) {
+                String prefix = word.substring(0, i);
+                if (dictSet.contains(prefix)) {
+                    replacement = prefix;
+                    break;
+                }
             }
+            if (result.length() > 0) {
+                result.append(" ");
+            }
+            result.append(replacement);
         }
         
-        return count;
+        return result.toString();
     }
 }
