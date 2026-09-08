@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/maximum-distance-in-arrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42028000 (beats 0%)
+// Runtime  : 6 ms (beats 98%)
+// Memory   : 143308000 (beats 10%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
