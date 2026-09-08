@@ -4,7 +4,7 @@
 // Tags     : Array, Hash Table, String, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask
 // Link     : https://leetcode.com/problems/stickers-to-spell-word/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42608000 (beats 0%)
+// Memory   : 42936000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
@@ -24,7 +24,8 @@ class Solution {
             }
         }
         
-        return solve(dp, counts, target, (1 << m) - 1);
+        int ans = solve(dp, counts, target, (1 << m) - 1);
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
     
     private int solve(int[] dp, int[][] counts, String target, int mask) {
@@ -34,50 +35,33 @@ class Solution {
         
         int n = target.length();
         int ans = Integer.MAX_VALUE;
+        int firstUnmatched = Integer.numberOfTrailingZeros(mask);
         
         for (int[] sticker : counts) {
-            if (sticker[target.charAt(Integer.numberOfTrailingZeros(mask)) - 'a'] == 0) {
+            if (sticker[target.charAt(firstUnmatched) - 'a'] == 0) {
                 continue;
             }
             
             int nextMask = mask;
+            int[] stickerCopy = sticker.clone();
+            
             for (int i = 0; i < n; i++) {
                 if ((nextMask & (1 << i)) != 0) {
                     int c = target.charAt(i) - 'a';
-                    if (sticker[c] > 0) {
-                        sticker[c]--;
+                    if (stickerCopy[c] > 0) {
+                        stickerCopy[c]--;
                         nextMask ^= (1 << i);
                     }
                 }
             }
             
-            for (int i = 0; i < n; i++) {
-                if ((mask & (1 << i)) != 0 && (nextMask & (1 << i)) != 0) {
-                    int c = target.charAt(i) - 'a';
-                    sticker[c] += (target.charAt(i) == target.charAt(i) ? 1 : 0); // Simplified restore logic
-                }
-            }
-            
-            // Proper state transition
-            int tempMask = mask;
-            int[] countCopy = sticker.clone();
-            for (int i = 0; i < n; i++) {
-                if ((tempMask & (1 << i)) != 0) {
-                    int idx = target.charAt(i) - 'a';
-                    if (countCopy[idx] > 0) {
-                        countCopy[idx]--;
-                        tempMask ^= (1 << i);
-                    }
-                }
-            }
-            
-            int res = solve(dp, counts, target, tempMask);
-            if (res != -1) {
+            int res = solve(dp, counts, target, nextMask);
+            if (res != Integer.MAX_VALUE) {
                 ans = Math.min(ans, 1 + res);
             }
         }
         
-        dp[mask] = (ans == Integer.MAX_VALUE) ? -1 : ans;
+        dp[mask] = ans;
         return dp[mask];
     }
 }
