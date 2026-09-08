@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask, Knapsack Problem, Complete Knapsack
 // Link     : https://leetcode.com/problems/shopping-offers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42448000 (beats 0%)
+// Runtime  : 9 ms (beats 40%)
+// Memory   : 46568000 (beats 25%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
