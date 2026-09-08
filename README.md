@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 219 Solved
+## Progress Summary: 220 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -114,6 +114,7 @@
 | largest-number | Largest Number | Medium | java | [Problem](https://leetcode.com/problems/largest-number/) | [Solution](./solutions/Medium/0179-largest-number/solution.java) |
 | largest-rectangle-in-histogram | Largest Rectangle in Histogram | Hard | java | [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](./solutions/Hard/0084-largest-rectangle-in-histogram/solution.java) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
+| longest-continuous-increasing-subsequence | Longest Continuous Increasing Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](./solutions/Easy/0674-longest-continuous-increasing-subsequence/solution.java) |
 | longest-harmonious-subsequence | Longest Harmonious Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.java) |
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | java | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.java) |
 | longest-increasing-subsequence | Longest Increasing Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./solutions/Medium/0300-longest-increasing-subsequence/solution.java) |
