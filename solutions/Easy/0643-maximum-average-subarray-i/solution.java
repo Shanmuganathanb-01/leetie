@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sliding Window
 // Link     : https://leetcode.com/problems/maximum-average-subarray-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 45192000 (beats 0%)
+// Runtime  : 4 ms (beats 43%)
+// Memory   : 69456000 (beats 80%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
