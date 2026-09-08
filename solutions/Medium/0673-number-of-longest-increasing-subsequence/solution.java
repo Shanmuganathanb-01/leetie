@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Binary Indexed Tree, Segment Tree, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/number-of-longest-increasing-subsequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42308000 (beats 0%)
+// Runtime  : 19 ms (beats 76%)
+// Memory   : 45096000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
