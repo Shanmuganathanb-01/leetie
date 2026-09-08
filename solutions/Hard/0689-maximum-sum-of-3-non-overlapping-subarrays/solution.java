@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Sliding Window, Prefix Sum
 // Link     : https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42976000 (beats 0%)
+// Runtime  : 3 ms (beats 99%)
+// Memory   : 48800000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
