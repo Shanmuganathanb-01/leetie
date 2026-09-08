@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array
 // Link     : https://leetcode.com/problems/non-decreasing-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42348000 (beats 0%)
+// Runtime  : 1 ms (beats 42%)
+// Memory   : 47156000 (beats 43%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
