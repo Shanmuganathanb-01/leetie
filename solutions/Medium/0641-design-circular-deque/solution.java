@@ -1,0 +1,87 @@
+// ──────────────────────────────────────────────────
+// Problem  : 641. Design Circular Deque
+// Difficulty: Medium
+// Tags     : Array, Linked List, Design, Queue
+// Link     : https://leetcode.com/problems/design-circular-deque/
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42604000 (beats 0%)
+// Language : java
+// Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class MyCircularDeque {
+    private int[] data;
+    private int front;
+    private int rear;
+    private int size;
+    private int capacity;
+
+    public MyCircularDeque(int k) {
+        capacity = k;
+        data = new int[k];
+        front = 0;
+        rear = k - 1;
+        size = 0;
+    }
+    
+    public boolean insertFront(int value) {
+        if (isFull()) {
+            return false;
+        }
+        front = (front - 1 + capacity) % capacity;
+        data[front] = value;
+        size++;
+        return true;
+    }
+    
+    public boolean insertLast(int value) {
+        if (isFull()) {
+            return false;
+        }
+        rear = (rear + 1) % capacity;
+        data[rear] = value;
+        size++;
+        return true;
+    }
+    
+    public boolean deleteFront() {
+        if (isEmpty()) {
+            return false;
+        }
+        front = (front + 1) % capacity;
+        size--;
+        return true;
+    }
+    
+    public boolean deleteLast() {
+        if (isEmpty()) {
+            return false;
+        }
+        rear = (rear - 1 + capacity) % capacity;
+        size--;
+        return true;
+    }
+    
+    public int getFront() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return data[front];
+    }
+    
+    public int getRear() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return data[rear];
+    }
+    
+    public boolean isEmpty() {
+        return size == 0;
+    }
+    
+    public boolean isFull() {
+        return size == capacity;
+    }
+}
