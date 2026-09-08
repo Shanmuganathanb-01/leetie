@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 224 Solved
+## Progress Summary: 225 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -200,6 +200,7 @@
 | sort-by | Sort By | Easy | javascript | [Problem](https://leetcode.com/problems/sort-by/) | [Solution](./solutions/Easy/2724-sort-by/solution.js) |
 | split-array-into-consecutive-subsequences | Split Array into Consecutive Subsequences | Medium | java | [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](./solutions/Medium/0659-split-array-into-consecutive-subsequences/solution.java) |
 | split-array-largest-sum | Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
+| stickers-to-spell-word | Stickers to Spell Word | Hard | java | [Problem](https://leetcode.com/problems/stickers-to-spell-word/) | [Solution](./solutions/Hard/0691-stickers-to-spell-word/solution.java) |
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | subsets-ii | Subsets II | Medium | java | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.java) |
 | summary-ranges | Summary Ranges | Easy | java | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.java) |
