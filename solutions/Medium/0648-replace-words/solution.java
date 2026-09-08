@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Trie
 // Link     : https://leetcode.com/problems/replace-words/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42808000 (beats 0%)
+// Runtime  : 702 ms (beats 14%)
+// Memory   : 59140000 (beats 71%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
