@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Greedy, Sorting, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/maximum-length-of-pair-chain/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42768000 (beats 0%)
+// Runtime  : 8 ms (beats 99%)
+// Memory   : 46948000 (beats 66%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
