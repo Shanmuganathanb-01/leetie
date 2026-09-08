@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Greedy, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/split-array-into-consecutive-subsequences/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42672000 (beats 0%)
+// Runtime  : 29 ms (beats 25%)
+// Memory   : 48504000 (beats 31%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
