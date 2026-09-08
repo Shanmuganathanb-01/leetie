@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 213 Solved
+## Progress Summary: 214 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -125,6 +125,7 @@
 | maximal-rectangle | Maximal Rectangle | Hard | java | [Problem](https://leetcode.com/problems/maximal-rectangle/) | [Solution](./solutions/Hard/0085-maximal-rectangle/solution.java) |
 | maximal-square | Maximal Square | Medium | java | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.java) |
 | maximum-average-subarray-i | Maximum Average Subarray I | Easy | java | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.java) |
+| maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-distance-in-arrays | Maximum Distance in Arrays | Medium | java | [Problem](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Solution](./solutions/Medium/0624-maximum-distance-in-arrays/solution.java) |
 | maximum-gap | Maximum Gap | Medium | java | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.java) |
 | maximum-length-of-pair-chain | Maximum Length of Pair Chain | Medium | java | [Problem](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Solution](./solutions/Medium/0646-maximum-length-of-pair-chain/solution.java) |
