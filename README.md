@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 220 Solved
+## Progress Summary: 221 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -63,6 +63,7 @@
 | course-schedule-iii | Course Schedule III | Hard | java | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.java) |
 | create-hello-world-function | Create Hello World Function | Easy | javascript | [Problem](https://leetcode.com/problems/create-hello-world-function/) | [Solution](./solutions/Easy/2667-create-hello-world-function/solution.js) |
 | create-maximum-number | Create Maximum Number | Hard | java | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.java) |
+| cut-off-trees-for-golf-event | Cut Off Trees for Golf Event | Hard | java | [Problem](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Solution](./solutions/Hard/0675-cut-off-trees-for-golf-event/solution.java) |
 | debounce | Debounce | Medium | javascript | [Problem](https://leetcode.com/problems/debounce/) | [Solution](./solutions/Medium/2627-debounce/solution.js) |
 | decode-the-slanted-ciphertext | Decode the Slanted Ciphertext | Medium | java | [Problem](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Solution](./solutions/Medium/2075-decode-the-slanted-ciphertext/solution.java) |
 | design-cancellable-function | Design Cancellable Function | Hard | javascript | [Problem](https://leetcode.com/problems/design-cancellable-function/) | [Solution](./solutions/Hard/2650-design-cancellable-function/solution.js) |
