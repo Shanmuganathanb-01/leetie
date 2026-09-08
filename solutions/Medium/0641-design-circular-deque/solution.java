@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Linked List, Design, Queue
 // Link     : https://leetcode.com/problems/design-circular-deque/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42604000 (beats 0%)
+// Runtime  : 5 ms (beats 84%)
+// Memory   : 46292000 (beats 86%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
