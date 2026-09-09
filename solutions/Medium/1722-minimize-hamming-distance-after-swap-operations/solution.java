@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Union-Find
 // Link     : https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42360000 (beats 0%)
+// Runtime  : 52 ms (beats 60%)
+// Memory   : 135540000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
