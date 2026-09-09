@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 232 Solved
+## Progress Summary: 233 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -223,6 +223,7 @@
 | transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
 | trapping-rain-water-ii | Trapping Rain Water II | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.java) |
 | triangle | Triangle | Medium | java | [Problem](https://leetcode.com/problems/triangle/) | [Solution](./solutions/Medium/0120-triangle/solution.java) |
+| two-furthest-houses-with-different-colors | Two Furthest Houses With Different Colors | Easy | java | [Problem](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Solution](./solutions/Easy/2078-two-furthest-houses-with-different-colors/solution.java) |
 | two-sum-ii-input-array-is-sorted | Two Sum II - Input Array Is Sorted | Medium | java | [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./solutions/Medium/0167-two-sum-ii-input-array-is-sorted/solution.java) |
 | unique-binary-search-trees-ii | Unique Binary Search Trees II | Medium | java | [Problem](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Solution](./solutions/Medium/0095-unique-binary-search-trees-ii/solution.java) |
 | utf-8-validation | UTF-8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
