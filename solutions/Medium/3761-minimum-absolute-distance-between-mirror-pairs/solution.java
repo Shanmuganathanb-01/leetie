@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math
 // Link     : https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42488000 (beats 0%)
+// Runtime  : 66 ms (beats 50%)
+// Memory   : 118272000 (beats 78%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
