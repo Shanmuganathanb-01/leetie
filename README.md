@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 233 Solved
+## Progress Summary: 234 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -142,6 +142,7 @@
 | maximum-sum-of-3-non-overlapping-subarrays | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | java | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.java) |
 | memoize | Memoize | Medium | javascript | [Problem](https://leetcode.com/problems/memoize/) | [Solution](./solutions/Medium/2623-memoize/solution.js) |
 | memoize-ii | Memoize II | Hard | javascript | [Problem](https://leetcode.com/problems/memoize-ii/) | [Solution](./solutions/Hard/2630-memoize-ii/solution.js) |
+| minimize-hamming-distance-after-swap-operations | Minimize Hamming Distance After Swap Operations | Medium | java | [Problem](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Solution](./solutions/Medium/1722-minimize-hamming-distance-after-swap-operations/solution.java) |
 | minimize-malware-spread | Minimize Malware Spread | Hard | java | [Problem](https://leetcode.com/problems/minimize-malware-spread/) | [Solution](./solutions/Hard/0924-minimize-malware-spread/solution.java) |
 | minimum-absolute-distance-between-mirror-pairs | Minimum Absolute Distance Between Mirror Pairs | Medium | java | [Problem](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Solution](./solutions/Medium/3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
 | minimum-distance-between-three-equal-elements-ii | Minimum Distance Between Three Equal Elements II | Medium | java | [Problem](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Solution](./solutions/Medium/3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
