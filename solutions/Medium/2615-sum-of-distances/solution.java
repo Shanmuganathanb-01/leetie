@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Prefix Sum
 // Link     : https://leetcode.com/problems/sum-of-distances/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42648000 (beats 0%)
+// Runtime  : 26 ms (beats 55%)
+// Memory   : 138980000 (beats 26%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
