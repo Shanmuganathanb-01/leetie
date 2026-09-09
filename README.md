@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 229 Solved
+## Progress Summary: 230 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -41,6 +41,7 @@
 | chunk-array | Chunk Array | Easy | javascript | [Problem](https://leetcode.com/problems/chunk-array/) | [Solution](./solutions/Easy/2677-chunk-array/solution.js) |
 | circular-array-loop | Circular Array Loop | Medium | java | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.java) |
 | clone-graph | Clone Graph | Medium | java | [Problem](https://leetcode.com/problems/clone-graph/) | [Solution](./solutions/Medium/0133-clone-graph/solution.java) |
+| closest-equal-element-queries | Closest Equal Element Queries | Medium | java | [Problem](https://leetcode.com/problems/closest-equal-element-queries/) | [Solution](./solutions/Medium/3488-closest-equal-element-queries/solution.java) |
 | coin-change | Coin Change | Medium | java | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.java) |
 | combination-sum-iii | Combination Sum III | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-iii/) | [Solution](./solutions/Medium/0216-combination-sum-iii/solution.java) |
 | combination-sum-iv | Combination Sum IV | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./solutions/Medium/0377-combination-sum-iv/solution.java) |
