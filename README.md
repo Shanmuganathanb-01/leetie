@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 230 Solved
+## Progress Summary: 231 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -143,6 +143,7 @@
 | memoize | Memoize | Medium | javascript | [Problem](https://leetcode.com/problems/memoize/) | [Solution](./solutions/Medium/2623-memoize/solution.js) |
 | memoize-ii | Memoize II | Hard | javascript | [Problem](https://leetcode.com/problems/memoize-ii/) | [Solution](./solutions/Hard/2630-memoize-ii/solution.js) |
 | minimize-malware-spread | Minimize Malware Spread | Hard | java | [Problem](https://leetcode.com/problems/minimize-malware-spread/) | [Solution](./solutions/Hard/0924-minimize-malware-spread/solution.java) |
+| minimum-absolute-distance-between-mirror-pairs | Minimum Absolute Distance Between Mirror Pairs | Medium | java | [Problem](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Solution](./solutions/Medium/3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
 | minimum-distance-between-three-equal-elements-ii | Minimum Distance Between Three Equal Elements II | Medium | java | [Problem](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Solution](./solutions/Medium/3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
 | minimum-distance-to-the-target-element | Minimum Distance to the Target Element | Easy | java | [Problem](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Solution](./solutions/Easy/1848-minimum-distance-to-the-target-element/solution.java) |
 | minimum-index-sum-of-two-lists | Minimum Index Sum of Two Lists | Easy | java | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.java) |
