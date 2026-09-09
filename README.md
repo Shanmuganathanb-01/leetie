@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 234 Solved
+## Progress Summary: 235 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -239,4 +239,5 @@
 | word-break-ii | Word Break II | Hard | java | [Problem](https://leetcode.com/problems/word-break-ii/) | [Solution](./solutions/Hard/0140-word-break-ii/solution.java) |
 | word-frequency | Word Frequency | Medium | bash | [Problem](https://leetcode.com/problems/word-frequency/) | [Solution](./solutions/Medium/0192-word-frequency/solution.txt) |
 | word-search-ii | Word Search II | Hard | java | [Problem](https://leetcode.com/problems/word-search-ii/) | [Solution](./solutions/Hard/0212-word-search-ii/solution.java) |
+| words-within-two-edits-of-dictionary | Words Within Two Edits of Dictionary | Medium | java | [Problem](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Solution](./solutions/Medium/2452-words-within-two-edits-of-dictionary/solution.java) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | java | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.java) |
