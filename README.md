@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 236 Solved
+## Progress Summary: 237 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -95,6 +95,7 @@
 | flatten-deeply-nested-array | Flatten Deeply Nested Array | Medium | javascript | [Problem](https://leetcode.com/problems/flatten-deeply-nested-array/) | [Solution](./solutions/Medium/2625-flatten-deeply-nested-array/solution.js) |
 | frog-jump | Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
 | function-composition | Function Composition | Easy | javascript | [Problem](https://leetcode.com/problems/function-composition/) | [Solution](./solutions/Easy/2629-function-composition/solution.js) |
+| furthest-point-from-origin | Furthest Point From Origin | Easy | java | [Problem](https://leetcode.com/problems/furthest-point-from-origin/) | [Solution](./solutions/Easy/2833-furthest-point-from-origin/solution.java) |
 | game-of-life | Game of Life | Medium | java | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.java) |
 | gas-station | Gas Station | Medium | java | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.java) |
 | generate-fibonacci-sequence | Generate Fibonacci Sequence | Easy | javascript | [Problem](https://leetcode.com/problems/generate-fibonacci-sequence/) | [Solution](./solutions/Easy/2648-generate-fibonacci-sequence/solution.js) |
