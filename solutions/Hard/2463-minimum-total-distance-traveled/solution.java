@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/minimum-total-distance-traveled/
-// Runtime  : 52 ms (beats 28%)
-// Memory   : 72728000 (beats 22%)
+// Runtime  : 59 ms (beats 23%)
+// Memory   : 72748000 (beats 21%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
