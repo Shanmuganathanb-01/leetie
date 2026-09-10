@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Dynamic Programming, Backtracking
 // Link     : https://leetcode.com/problems/palindrome-partitioning/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42696000 (beats 0%)
+// Runtime  : 7 ms (beats 96%)
+// Memory   : 65476000 (beats 24%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
