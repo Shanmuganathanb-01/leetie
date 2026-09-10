@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Breadth-First Search, Bidirectional Search
 // Link     : https://leetcode.com/problems/word-ladder/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42724000 (beats 0%)
+// Runtime  : 78 ms (beats 52%)
+// Memory   : 49396000 (beats 22%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
