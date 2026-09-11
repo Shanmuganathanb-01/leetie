@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Dynamic Programming, Stack, Greedy, Bracket Sequences
 // Link     : https://leetcode.com/problems/valid-parenthesis-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42696000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43044000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
