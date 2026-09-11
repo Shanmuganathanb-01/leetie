@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/super-washing-machines/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42452000 (beats 0%)
+// Runtime  : 1 ms (beats 99%)
+// Memory   : 46380000 (beats 93%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
