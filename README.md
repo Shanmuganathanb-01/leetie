@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 259 Solved
+## Progress Summary: 260 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -30,6 +30,7 @@
 | best-time-to-buy-and-sell-stock-with-transaction-fee | Best Time to Buy and Sell Stock with Transaction Fee | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution](./solutions/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/solution.java) |
 | binary-search-tree-iterator | Binary Search Tree Iterator | Medium | java | [Problem](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](./solutions/Medium/0173-binary-search-tree-iterator/solution.java) |
 | binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
+| binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | bricks-falling-when-hit | Bricks Falling When Hit | Hard | java | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.java) |
 | burst-balloons | Burst Balloons | Hard | java | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.java) |
