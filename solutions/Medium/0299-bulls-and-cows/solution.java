@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Counting
 // Link     : https://leetcode.com/problems/bulls-and-cows/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42704000 (beats 0%)
+// Runtime  : 4 ms (beats 47%)
+// Memory   : 43348000 (beats 87%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
