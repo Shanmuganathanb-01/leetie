@@ -3,23 +3,17 @@
 // Difficulty: Medium
 // Tags     : String, Depth-First Search, Design, Trie
 // Link     : https://leetcode.com/problems/design-add-and-search-words-data-structure/
-// Runtime  : 231 ms (beats 31%)
-// Memory   : 277036000 (beats 26%)
+// Runtime  : 201 ms (beats 59%)
+// Memory   : 274284000 (beats 59%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
 class WordDictionary {
-    
-    private class TrieNode {
-        TrieNode[] children;
-        boolean isEnd;
-        
-        public TrieNode() {
-            children = new TrieNode[26];
-            isEnd = false;
-        }
+    class TrieNode {
+        TrieNode[] children = new TrieNode[26];
+        boolean isWord = false;
     }
     
     private TrieNode root;
@@ -29,39 +23,37 @@ class WordDictionary {
     }
     
     public void addWord(String word) {
-        TrieNode curr = root;
-        for (int i = 0; i < word.length(); i++) {
-            int idx = word.charAt(i) - 'a';
-            if (curr.children[idx] == null) {
-                curr.children[idx] = new TrieNode();
+        TrieNode node = root;
+        for (char c : word.toCharArray()) {
+            int index = c - 'a';
+            if (node.children[index] == null) {
+                node.children[index] = new TrieNode();
             }
-            curr = curr.children[idx];
+            node = node.children[index];
         }
-        curr.isEnd = true;
+        node.isWord = true;
     }
     
     public boolean search(String word) {
-        return searchHelper(word, 0, root);
+        return searchInNode(word, 0, root);
     }
     
-    private boolean searchHelper(String word, int index, TrieNode node) {
+    private boolean searchInNode(String word, int i, TrieNode node) {
         if (node == null) {
             return false;
         }
-        if (index == word.length()) {
-            return node.isEnd;
+        if (i == word.length()) {
+            return node.isWord;
         }
-        
-        char c = word.charAt(index);
-        if (c == '.') {
-            for (int i = 0; i < 26; i++) {
-                if (node.children[i] != null && searchHelper(word, index + 1, node.children[i])) {
-                    return true;
-                }
+        char c = word.charAt(i);
+        if (c != '.') {
+            return searchInNode(word, i + 1, node.children[c - 'a']);
+        }
+        for (int j = 0; j < 26; j++) {
+            if (node.children[j] != null && searchInNode(word, i + 1, node.children[j])) {
+                return true;
             }
-            return false;
-        } else {
-            return searchHelper(word, index + 1, node.children[c - 'a']);
         }
+        return false;
     }
 }
