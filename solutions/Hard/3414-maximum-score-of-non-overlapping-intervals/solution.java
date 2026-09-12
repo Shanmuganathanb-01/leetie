@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42940000 (beats 0%)
+// Runtime  : 146 ms (beats 76%)
+// Memory   : 239372000 (beats 15%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
