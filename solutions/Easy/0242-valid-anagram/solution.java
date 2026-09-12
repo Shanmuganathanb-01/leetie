@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Sorting
 // Link     : https://leetcode.com/problems/valid-anagram/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42620000 (beats 0%)
+// Runtime  : 6 ms (beats 44%)
+// Memory   : 44504000 (beats 60%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
