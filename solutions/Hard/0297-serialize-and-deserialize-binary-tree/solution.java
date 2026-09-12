@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree
 // Link     : https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42620000 (beats 0%)
+// Runtime  : 9 ms (beats 83%)
+// Memory   : 48940000 (beats 8%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
