@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String, Backtracking, Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/binary-tree-paths/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 42960000 (beats 0%)
+// Runtime  : 3 ms (beats 79%)
+// Memory   : 49580000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
