@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Backtracking, Breadth-First Search
 // Link     : https://leetcode.com/problems/remove-invalid-parentheses/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42784000 (beats 0%)
+// Runtime  : 118 ms (beats 28%)
+// Memory   : 43872000 (beats 86%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
