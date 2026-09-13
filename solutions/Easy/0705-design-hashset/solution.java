@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Linked List, Design, Hash Function
 // Link     : https://leetcode.com/problems/design-hashset/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43568000 (beats 0%)
+// Runtime  : 13 ms (beats 59%)
+// Memory   : 54084000 (beats 40%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
