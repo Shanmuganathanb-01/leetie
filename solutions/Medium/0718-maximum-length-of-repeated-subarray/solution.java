@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Dynamic Programming, Sliding Window, Rolling Hash, Hash Function
 // Link     : https://leetcode.com/problems/maximum-length-of-repeated-subarray/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42448000 (beats 0%)
+// Runtime  : 22 ms (beats 94%)
+// Memory   : 45276000 (beats 92%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
