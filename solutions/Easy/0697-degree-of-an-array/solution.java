@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/degree-of-an-array/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 43520000 (beats 0%)
+// Runtime  : 8 ms (beats 97%)
+// Memory   : 48868000 (beats 98%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
