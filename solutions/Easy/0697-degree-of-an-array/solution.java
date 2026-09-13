@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/degree-of-an-array/
-// Runtime  : 8 ms (beats 97%)
-// Memory   : 48868000 (beats 98%)
+// Runtime  : 5 ms (beats 99%)
+// Memory   : 49244000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
@@ -29,9 +29,9 @@ class Solution {
         }
         
         int minLen = nums.length;
-        for (int i = 0; i < 50000; i++) {
-            if (count[i] == degree) {
-                int len = last[i] - first[i] + 1;
+        for (int i = 0; i < nums.length; i++) {
+            if (count[nums[i]] == degree) {
+                int len = last[nums[i]] - first[nums[i]] + 1;
                 if (len < minLen) {
                     minLen = len;
                 }
