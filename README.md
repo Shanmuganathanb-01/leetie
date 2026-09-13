@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 274 Solved
+## Progress Summary: 275 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -99,6 +99,7 @@
 | find-duplicate-file-in-system | Find Duplicate File in System | Medium | java | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.java) |
 | find-k-closest-elements | Find K Closest Elements | Medium | java | [Problem](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](./solutions/Medium/0658-find-k-closest-elements/solution.java) |
 | find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | java | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.java) |
+| find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | java | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-right-interval | Find Right Interval | Medium | java | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.java) |
