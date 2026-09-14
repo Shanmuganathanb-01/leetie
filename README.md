@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 278 Solved
+## Progress Summary: 279 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -102,6 +102,7 @@
 | find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | java | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
+| find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
 | find-right-interval | Find Right Interval | Medium | java | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.java) |
 | find-students-with-study-spiral-pattern | Find Students with Study Spiral Pattern | Hard | mysql | [Problem](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | [Solution](./solutions/Hard/3617-find-students-with-study-spiral-pattern/solution.sql) |
 | find-the-duplicate-number | Find the Duplicate Number | Medium | java | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.java) |
