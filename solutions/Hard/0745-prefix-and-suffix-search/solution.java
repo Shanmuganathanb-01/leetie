@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, String, Design, Trie
 // Link     : https://leetcode.com/problems/prefix-and-suffix-search/
-// Runtime  : 7 ms (beats 0%)
-// Memory   : 43148000 (beats 0%)
+// Runtime  : 297 ms (beats 63%)
+// Memory   : 278368000 (beats 21%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
