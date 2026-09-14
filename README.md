@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 282 Solved
+## Progress Summary: 283 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | array-reduce-transformation | Array Reduce Transformation | Easy | javascript | [Problem](https://leetcode.com/problems/array-reduce-transformation/) | [Solution](./solutions/Easy/2626-array-reduce-transformation/solution.js) |
 | array-wrapper | Array Wrapper | Easy | javascript | [Problem](https://leetcode.com/problems/array-wrapper/) | [Solution](./solutions/Easy/2695-array-wrapper/solution.js) |
 | assign-cookies | Assign Cookies | Easy | java | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.java) |
+| asteroid-collision | Asteroid Collision | Medium | java | [Problem](https://leetcode.com/problems/asteroid-collision/) | [Solution](./solutions/Medium/0735-asteroid-collision/solution.java) |
 | baseball-game | Baseball Game | Easy | java | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.java) |
 | battleships-in-a-board | Battleships in a Board | Medium | java | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.java) |
 | best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
