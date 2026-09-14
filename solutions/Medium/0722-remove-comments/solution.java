@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String
 // Link     : https://leetcode.com/problems/remove-comments/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42912000 (beats 0%)
+// Runtime  : 1 ms (beats 74%)
+// Memory   : 43232000 (beats 69%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
