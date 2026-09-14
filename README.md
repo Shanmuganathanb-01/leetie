@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 279 Solved
+## Progress Summary: 280 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -176,6 +176,7 @@
 | minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.java) |
 | minimum-total-distance-traveled | Minimum Total Distance Traveled | Hard | java | [Problem](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Solution](./solutions/Hard/2463-minimum-total-distance-traveled/solution.java) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | java | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.java) |
+| my-calendar-i | My Calendar I | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-i/) | [Solution](./solutions/Medium/0729-my-calendar-i/solution.java) |
 | nested-array-generator | Nested Array Generator | Medium | javascript | [Problem](https://leetcode.com/problems/nested-array-generator/) | [Solution](./solutions/Medium/2649-nested-array-generator/solution.js) |
 | next-greater-element-i | Next Greater Element I | Easy | java | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.java) |
 | next-greater-element-ii | Next Greater Element II | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](./solutions/Medium/0503-next-greater-element-ii/solution.java) |
