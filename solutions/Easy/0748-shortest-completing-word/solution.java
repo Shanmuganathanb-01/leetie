@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/shortest-completing-word/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42600000 (beats 0%)
+// Runtime  : 3 ms (beats 92%)
+// Memory   : 45920000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
