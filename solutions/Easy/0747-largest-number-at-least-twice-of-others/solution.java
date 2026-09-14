@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/largest-number-at-least-twice-of-others/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42804000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42812000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
