@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 309 Solved
+## Progress Summary: 310 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -38,6 +38,7 @@
 | binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
 | bricks-falling-when-hit | Bricks Falling When Hit | Hard | java | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.java) |
+| build-an-array-with-stack-operations | Build an Array With Stack Operations | Medium | java | [Problem](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Solution](./solutions/Medium/1441-build-an-array-with-stack-operations/solution.java) |
 | bulls-and-cows | Bulls and Cows | Medium | java | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.java) |
 | burst-balloons | Burst Balloons | Hard | java | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.java) |
 | cache-with-time-limit | Cache With Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/cache-with-time-limit/) | [Solution](./solutions/Medium/2622-cache-with-time-limit/solution.js) |
