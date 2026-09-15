@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Bit Manipulation, Simulation
 // Link     : https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42716000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42620000 (beats 71%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
