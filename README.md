@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 295 Solved
+## Progress Summary: 296 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -276,6 +276,7 @@
 | to-be-or-not-to-be | To Be Or Not To Be | Easy | javascript | [Problem](https://leetcode.com/problems/to-be-or-not-to-be/) | [Solution](./solutions/Easy/2704-to-be-or-not-to-be/solution.js) |
 | top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
 | transpose-file | Transpose File | Medium | bash | [Problem](https://leetcode.com/problems/transpose-file/) | [Solution](./solutions/Medium/0194-transpose-file/solution.txt) |
+| transpose-matrix | Transpose Matrix | Easy | java | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.java) |
 | trapping-rain-water-ii | Trapping Rain Water II | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.java) |
 | triangle | Triangle | Medium | java | [Problem](https://leetcode.com/problems/triangle/) | [Solution](./solutions/Medium/0120-triangle/solution.java) |
 | two-furthest-houses-with-different-colors | Two Furthest Houses With Different Colors | Easy | java | [Problem](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Solution](./solutions/Easy/2078-two-furthest-houses-with-different-colors/solution.java) |
