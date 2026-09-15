@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Matrix, Simulation
 // Link     : https://leetcode.com/problems/queens-that-can-attack-the-king/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42580000 (beats 0%)
+// Runtime  : 1 ms (beats 81%)
+// Memory   : 44104000 (beats 72%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
