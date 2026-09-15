@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/create-target-array-in-the-given-order/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42804000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43148000 (beats 90%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
