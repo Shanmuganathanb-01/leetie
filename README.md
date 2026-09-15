@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 305 Solved
+## Progress Summary: 306 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -216,6 +216,7 @@
 | prefix-and-suffix-search | Prefix and Suffix Search | Hard | java | [Problem](https://leetcode.com/problems/prefix-and-suffix-search/) | [Solution](./solutions/Hard/0745-prefix-and-suffix-search/solution.java) |
 | print-foobar-alternately | Print FooBar Alternately | Medium | java | [Problem](https://leetcode.com/problems/print-foobar-alternately/) | [Solution](./solutions/Medium/1115-print-foobar-alternately/solution.java) |
 | print-in-order | Print in Order | Easy | java | [Problem](https://leetcode.com/problems/print-in-order/) | [Solution](./solutions/Easy/1114-print-in-order/solution.java) |
+| print-words-vertically | Print Words Vertically | Medium | java | [Problem](https://leetcode.com/problems/print-words-vertically/) | [Solution](./solutions/Medium/1324-print-words-vertically/solution.java) |
 | print-zero-even-odd | Print Zero Even Odd | Medium | java | [Problem](https://leetcode.com/problems/print-zero-even-odd/) | [Solution](./solutions/Medium/1116-print-zero-even-odd/solution.java) |
 | promise-time-limit | Promise Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/promise-time-limit/) | [Solution](./solutions/Medium/2637-promise-time-limit/solution.js) |
 | queens-that-can-attack-the-king | Queens That Can Attack the King | Medium | java | [Problem](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [Solution](./solutions/Medium/1222-queens-that-can-attack-the-king/solution.java) |
