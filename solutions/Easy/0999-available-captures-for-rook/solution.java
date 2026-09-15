@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Matrix, Simulation
 // Link     : https://leetcode.com/problems/available-captures-for-rook/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42636000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42812000 (beats 26%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
