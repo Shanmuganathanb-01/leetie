@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Stack, Simulation
 // Link     : https://leetcode.com/problems/build-an-array-with-stack-operations/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42992000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 44240000 (beats 53%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
