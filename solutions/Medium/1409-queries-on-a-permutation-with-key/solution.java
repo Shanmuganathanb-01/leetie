@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Indexed Tree, Simulation, Sqrt Decomposition
 // Link     : https://leetcode.com/problems/queries-on-a-permutation-with-key/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42660000 (beats 0%)
+// Runtime  : 3 ms (beats 94%)
+// Memory   : 44036000 (beats 80%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
