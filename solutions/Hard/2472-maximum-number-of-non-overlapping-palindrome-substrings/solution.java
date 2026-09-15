@@ -4,7 +4,7 @@
 // Tags     : Two Pointers, String, Dynamic Programming, Greedy
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42668000 (beats 0%)
+// Memory   : 42608000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
@@ -13,36 +13,28 @@
 class Solution {
     public int maxPalindromes(String s, int k) {
         int n = s.length();
-        int count = 0;
-        int i = 0;
+        Integer[] memo = new Integer[n];
+        return dp(0, s, k, memo);
+    }
+    
+    private int dp(int i, String s, int k, Integer[] memo) {
+        if (i >= s.length()) {
+            return 0;
+        }
+        if (memo[i] != null) {
+            return memo[i];
+        }
         
-        while (i < n) {
-            boolean found = false;
-            for (int len = k; len <= k + 1; len++) {
-                if (i + len <= n && isPalindrome(s, i, i + len - 1)) {
-                    count++;
-                    i += len;
-                    found = true;
-                    break;
-                }
-            }
-            if (!found) {
-                int len = k + 2;
-                while (i + len <= n) {
-                    if (isPalindrome(s, i, i + len - 1)) {
-                        count++;
-                        i += len;
-                        found = true;
-                        break;
-                    }
-                    len++;
-                }
-            }
-            if (!found) {
-                i++;
+        int max = dp(i + 1, s, k, memo);
+        
+        for (int j = i + k - 1; j < s.length(); j++) {
+            if (isPalindrome(s, i, j)) {
+                max = Math.max(max, 1 + dp(j + 1, s, k, memo));
+                break;
             }
         }
-        return count;
+        
+        return memo[i] = max;
     }
     
     private boolean isPalindrome(String s, int l, int r) {
