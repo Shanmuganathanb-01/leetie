@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String, Simulation
 // Link     : https://leetcode.com/problems/print-words-vertically/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43216000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42904000 (beats 86%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
