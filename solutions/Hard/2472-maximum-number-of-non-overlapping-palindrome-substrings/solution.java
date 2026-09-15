@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Two Pointers, String, Dynamic Programming, Greedy
 // Link     : https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42608000 (beats 0%)
+// Runtime  : 52 ms (beats 49%)
+// Memory   : 42896000 (beats 79%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
