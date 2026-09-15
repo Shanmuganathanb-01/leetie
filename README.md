@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 308 Solved
+## Progress Summary: 309 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -222,6 +222,7 @@
 | print-zero-even-odd | Print Zero Even Odd | Medium | java | [Problem](https://leetcode.com/problems/print-zero-even-odd/) | [Solution](./solutions/Medium/1116-print-zero-even-odd/solution.java) |
 | promise-time-limit | Promise Time Limit | Medium | javascript | [Problem](https://leetcode.com/problems/promise-time-limit/) | [Solution](./solutions/Medium/2637-promise-time-limit/solution.js) |
 | queens-that-can-attack-the-king | Queens That Can Attack the King | Medium | java | [Problem](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [Solution](./solutions/Medium/1222-queens-that-can-attack-the-king/solution.java) |
+| queries-on-a-permutation-with-key | Queries on a Permutation With Key | Medium | java | [Problem](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [Solution](./solutions/Medium/1409-queries-on-a-permutation-with-key/solution.java) |
 | queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | range-sum-query-immutable | Range Sum Query - Immutable | Easy | java | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.java) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | java | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.java) |
