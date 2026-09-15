@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/sum-of-even-numbers-after-queries/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43020000 (beats 0%)
+// Runtime  : 4 ms (beats 100%)
+// Memory   : 52944000 (beats 14%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
