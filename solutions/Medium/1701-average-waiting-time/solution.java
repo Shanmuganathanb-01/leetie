@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/average-waiting-time/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 45676000 (beats 0%)
+// Runtime  : 3 ms (beats 96%)
+// Memory   : 94972000 (beats 71%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
