@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 315 Solved
+## Progress Summary: 316 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -111,6 +111,7 @@
 | find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | java | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.java) |
 | find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | java | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.java) |
 | find-kth-bit-in-nth-binary-string | Find Kth Bit in Nth Binary String | Medium | java | [Problem](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Solution](./solutions/Medium/1545-find-kth-bit-in-nth-binary-string/solution.java) |
+| find-latest-group-of-size-m | Find Latest Group of Size M | Medium | java | [Problem](https://leetcode.com/problems/find-latest-group-of-size-m/) | [Solution](./solutions/Medium/1562-find-latest-group-of-size-m/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
