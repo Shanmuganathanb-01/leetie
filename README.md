@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 317 Solved
+## Progress Summary: 318 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -182,6 +182,7 @@
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | maximum-product-of-word-lengths | Maximum Product of Word Lengths | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
+| maximum-profit-of-operating-a-centennial-wheel | Maximum Profit of Operating a Centennial Wheel | Medium | java | [Problem](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [Solution](./solutions/Medium/1599-maximum-profit-of-operating-a-centennial-wheel/solution.java) |
 | maximum-score-of-non-overlapping-intervals | Maximum Score of Non-overlapping Intervals | Hard | java | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.java) |
 | maximum-sum-of-3-non-overlapping-subarrays | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | java | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.java) |
 | memoize | Memoize | Medium | javascript | [Problem](https://leetcode.com/problems/memoize/) | [Solution](./solutions/Medium/2623-memoize/solution.js) |
