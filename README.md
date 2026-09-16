@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 324 Solved
+## Progress Summary: 325 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | assign-cookies | Assign Cookies | Easy | java | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.java) |
 | asteroid-collision | Asteroid Collision | Medium | java | [Problem](https://leetcode.com/problems/asteroid-collision/) | [Solution](./solutions/Medium/0735-asteroid-collision/solution.java) |
 | available-captures-for-rook | Available Captures for Rook | Easy | java | [Problem](https://leetcode.com/problems/available-captures-for-rook/) | [Solution](./solutions/Easy/0999-available-captures-for-rook/solution.java) |
+| average-waiting-time | Average Waiting Time | Medium | java | [Problem](https://leetcode.com/problems/average-waiting-time/) | [Solution](./solutions/Medium/1701-average-waiting-time/solution.java) |
 | backspace-string-compare | Backspace String Compare | Easy | java | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.java) |
 | baseball-game | Baseball Game | Easy | java | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.java) |
 | battleships-in-a-board | Battleships in a Board | Medium | java | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.java) |
