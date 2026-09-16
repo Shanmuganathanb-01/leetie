@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 325 Solved
+## Progress Summary: 326 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -321,6 +321,7 @@
 | validate-stack-sequences | Validate Stack Sequences | Medium | java | [Problem](https://leetcode.com/problems/validate-stack-sequences/) | [Solution](./solutions/Medium/0946-validate-stack-sequences/solution.java) |
 | walking-robot-simulation | Walking Robot Simulation | Medium | java | [Problem](https://leetcode.com/problems/walking-robot-simulation/) | [Solution](./solutions/Medium/0874-walking-robot-simulation/solution.java) |
 | walking-robot-simulation-ii | Walking Robot Simulation II | Medium | java | [Problem](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Solution](./solutions/Medium/2069-walking-robot-simulation-ii/solution.java) |
+| where-will-the-ball-fall | Where Will the Ball Fall | Medium | java | [Problem](https://leetcode.com/problems/where-will-the-ball-fall/) | [Solution](./solutions/Medium/1706-where-will-the-ball-fall/solution.java) |
 | wiggle-sort-ii | Wiggle Sort II | Medium | java | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.java) |
 | wiggle-subsequence | Wiggle Subsequence | Medium | java | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.java) |
 | word-break | Word Break | Medium | java | [Problem](https://leetcode.com/problems/word-break/) | [Solution](./solutions/Medium/0139-word-break/solution.java) |
