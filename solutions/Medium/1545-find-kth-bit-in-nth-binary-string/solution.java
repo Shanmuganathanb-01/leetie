@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Recursion, Simulation
 // Link     : https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42240000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42156000 (beats 98%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
