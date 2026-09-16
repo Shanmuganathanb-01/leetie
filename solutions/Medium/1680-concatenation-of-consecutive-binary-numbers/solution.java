@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Bit Manipulation, Simulation
 // Link     : https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42192000 (beats 0%)
+// Runtime  : 24 ms (beats 98%)
+// Memory   : 42184000 (beats 92%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
