@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Stack, Queue, Simulation
 // Link     : https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42628000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43272000 (beats 62%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
