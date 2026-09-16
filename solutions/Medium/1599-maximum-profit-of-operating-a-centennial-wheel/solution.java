@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42432000 (beats 0%)
+// Runtime  : 11 ms (beats 68%)
+// Memory   : 62936000 (beats 68%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
