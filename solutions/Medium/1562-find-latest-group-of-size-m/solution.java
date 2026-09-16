@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Binary Search, Simulation
 // Link     : https://leetcode.com/problems/find-latest-group-of-size-m/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42668000 (beats 0%)
+// Runtime  : 4 ms (beats 99%)
+// Memory   : 89140000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
