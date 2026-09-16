@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 326 Solved
+## Progress Summary: 327 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -216,6 +216,7 @@
 | non-overlapping-intervals | Non-overlapping Intervals | Medium | java | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.java) |
 | number-of-1-bits | Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./solutions/Easy/0191-number-of-1-bits/solution.java) |
 | number-of-longest-increasing-subsequence | Number of Longest Increasing Subsequence | Medium | java | [Problem](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution](./solutions/Medium/0673-number-of-longest-increasing-subsequence/solution.java) |
+| number-of-orders-in-the-backlog | Number of Orders in the Backlog | Medium | java | [Problem](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | [Solution](./solutions/Medium/1801-number-of-orders-in-the-backlog/solution.java) |
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | number-of-steps-to-reduce-a-number-in-binary-representation-to-one | Number of Steps to Reduce a Number in Binary Representation to One | Medium | java | [Problem](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution](./solutions/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solution.java) |
 | number-of-students-unable-to-eat-lunch | Number of Students Unable to Eat Lunch | Easy | java | [Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Solution](./solutions/Easy/1700-number-of-students-unable-to-eat-lunch/solution.java) |
