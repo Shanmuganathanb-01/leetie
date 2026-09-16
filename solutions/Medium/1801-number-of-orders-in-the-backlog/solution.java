@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Heap (Priority Queue), Simulation
 // Link     : https://leetcode.com/problems/number-of-orders-in-the-backlog/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42588000 (beats 0%)
+// Runtime  : 41 ms (beats 53%)
+// Memory   : 91608000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
