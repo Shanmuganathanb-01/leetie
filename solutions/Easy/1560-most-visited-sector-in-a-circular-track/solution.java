@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/most-visited-sector-in-a-circular-track/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42524000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 44832000 (beats 7%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
