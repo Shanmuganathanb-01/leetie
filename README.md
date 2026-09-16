@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 323 Solved
+## Progress Summary: 324 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -217,6 +217,7 @@
 | number-of-longest-increasing-subsequence | Number of Longest Increasing Subsequence | Medium | java | [Problem](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution](./solutions/Medium/0673-number-of-longest-increasing-subsequence/solution.java) |
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | java | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
 | number-of-steps-to-reduce-a-number-in-binary-representation-to-one | Number of Steps to Reduce a Number in Binary Representation to One | Medium | java | [Problem](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution](./solutions/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solution.java) |
+| number-of-students-unable-to-eat-lunch | Number of Students Unable to Eat Lunch | Easy | java | [Problem](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Solution](./solutions/Easy/1700-number-of-students-unable-to-eat-lunch/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
 | palindrome-pairs | Palindrome Pairs | Hard | java | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.java) |
