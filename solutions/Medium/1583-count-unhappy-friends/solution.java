@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/count-unhappy-friends/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42124000 (beats 0%)
+// Runtime  : 2 ms (beats 96%)
+// Memory   : 65728000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 Shanmuganathanb-01. All rights reserved.
 // Synced by: leetie
